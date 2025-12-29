@@ -1,9 +1,4 @@
-{"timestamp": "20:04:05.356", "elapsed_s": 0, "frame": 60, "screen_size": [530, 327]}
-{"timestamp": "20:04:05.591", "elapsed_s": 0, "frame": 120, "screen_size": [530, 327]}
-{"timestamp": "20:04:05.802", "elapsed_s": 1, "frame": 180, "screen_size": [530, 327]}
-{"timestamp": "20:04:06.012", "elapsed_s": 1, "frame": 240, "screen_size": [530, 327]}
-{"timestamp": "20:04:06.224", "elapsed_s": 1, "frame": 300, "screen_size": [530, 327]}
-{"timestamp": "20:04:06.433", "elapsed_s": 1, "frame": 360, "screen_size": [530, 327]}
-{"timestamp": "20:04:06.641", "elapsed_s": 1, "frame": 420, "screen_size": [530, 327]}
-{"timestamp": "20:04:06.857", "elapsed_s": 2, "frame": 480, "screen_size": [530, 327]}
-{"timestamp": "20:04:07.066", "elapsed_s": 2, "frame": 540, "screen_size": [530, 327]}
+{"timestamp": "21:00:16.455", "elapsed_s": 2, "frame": 60, "screen_size": [1280, 720]}
+{"timestamp": "21:00:18.401", "elapsed_s": 4, "frame": 120, "screen_size": [1280, 720]}
+{"timestamp": "21:00:20.343", "elapsed_s": 6, "frame": 180, "screen_size": [1280, 720]}
+{"timestamp": "21:00:22.283", "elapsed_s": 8, "frame": 240, "screen_size": [1280, 720]}
